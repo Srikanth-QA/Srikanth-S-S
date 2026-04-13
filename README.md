@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Srikanth S S
 
-## 👨‍💻 Who am I?
+## 👨‍💻 
 I’m a Quality Assurance Engineer passionate about delivering stable, high-quality software.  
 I focus on identifying bugs early, improving test coverage, and ensuring a smooth user experience through effective testing practices.
 
 ---
 
-## 🚧 What am I currently working on?
+## 🚧 
 - Enhancing my skills in **Manual and Automation Testing**
 - Learning and practicing **test automation frameworks**
 - Exploring **API testing and CI/CD integration**
@@ -26,7 +26,7 @@ I focus on identifying bugs early, improving test coverage, and ensuring a smoot
 
 ---
 
-## 📫 How to reach me?
+## 📫 
 - **GitHub:** https://github.com/Srikanth-QA/Srikanth-S-S/
 - **LinkedIn:** https://www.linkedin.com/in/srikanth-s-s/
 - **Email:** srikanthss716@email.com  
